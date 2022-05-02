@@ -10,3 +10,4 @@ var tipAmount = document.querySelector('#tipAmount')
 var totalBillWithTip = document.querySelector('#totalBillWithTip')
 
 tipAmount.value = tipValue.toFixed(2);
+hgvvgc
